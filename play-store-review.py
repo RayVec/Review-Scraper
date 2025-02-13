@@ -19,7 +19,7 @@ ehorses_review_result = reviews_all(
     lang='en',
     country='us',
     sort=Sort.MOST_RELEVANT,
-    filter_score_with=5
+    # filter_score_with=5
 )
 
 # Convert reviews to DataFrame
