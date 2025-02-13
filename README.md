@@ -15,7 +15,7 @@ The key challenges lie on
 
 For targeting apps, see
 
-![image.png](attachment:3461afdf-d142-4156-9c30-df9b650ef5ff:image.png)
+![image.png](https://www.notion.so/Review-collection-198cac4b856f80b7b4f0e348198299ef?pvs=4#199cac4b856f80038a1ac376b7f7e2f9)
 
 the “id=xxxxxx” in the browser address when visiting this app on google play store web page
 
