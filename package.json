@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "app-store-client": "^1.0.4"
+  },
+  "type": "module"
+}
