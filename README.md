@@ -15,7 +15,7 @@ The key challenges lie on
 
 For targeting apps, see
 
-![image.png]([https://www.notion.so/Review-collection-198cac4b856f80b7b4f0e348198299ef?pvs=4#199cac4b856f80038a1ac376b7f7e2f9](https://file.notion.so/f/f/2d35a5b3-e1b9-4ef8-a9b5-ec820e6f3435/3461afdf-d142-4156-9c30-df9b650ef5ff/image.png?table=block&id=199cac4b-856f-80f3-8c85-ce8565e39355&spaceId=2d35a5b3-e1b9-4ef8-a9b5-ec820e6f3435&expirationTimestamp=1739491200000&signature=yMCF5mdULdyqbWEe-8DdVMDTnQ_v-Cr-5vjo84DxeSI&downloadName=image.png))
+![image.png](https://file.notion.so/f/f/2d35a5b3-e1b9-4ef8-a9b5-ec820e6f3435/3461afdf-d142-4156-9c30-df9b650ef5ff/image.png?table=block&id=199cac4b-856f-80f3-8c85-ce8565e39355&spaceId=2d35a5b3-e1b9-4ef8-a9b5-ec820e6f3435&expirationTimestamp=1739491200000&signature=yMCF5mdULdyqbWEe-8DdVMDTnQ_v-Cr-5vjo84DxeSI&downloadName=image.png)
 
 the “id=xxxxxx” in the browser address when visiting this app on google play store web page
 
